@@ -18,7 +18,7 @@ So that I can organize and plan my business
 
 * Its done when the user chooses to view all roles and is presented with the job title, role, id, the separtment that role belongs to, and the salary for that role.
 
-* Its done when the user chooses to view all employees and is presented with a formatted table showing employee data, including employee ids, first names, last names, job titlesw, departments, salaries, and managers that the employees report to.
+* Its done when the user chooses to view all employees and is presented with a formatted table showing employee data, including employee ids, first names, last names, job titles, departments, salaries, and managers that the employees report to.
 
 * Its done when the user chooses to add a department and is prompted to enter the name of the department and that department is added to the database.
 
@@ -30,4 +30,5 @@ So that I can organize and plan my business
 
 ## Description
 
-This application allows the user to create 
+This application allows the user to create to create a database containing an employee tracker. The database will include the department, the employee role, salary and employee information, allowing the user to be able to access the database and its contents through the terminal command-line.
+
