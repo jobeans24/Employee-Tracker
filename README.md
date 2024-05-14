@@ -32,3 +32,5 @@ So that I can organize and plan my business
 
 This application allows the user to create to create a database containing an employee tracker. The database will include the department, the employee role, salary and employee information, allowing the user to be able to access the database and its contents through the terminal command-line.
 
+## Video Presentation
+
